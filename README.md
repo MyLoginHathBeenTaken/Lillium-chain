@@ -1,5 +1,6 @@
 # Lillium-chain
-Lillium's blockchain:
+
+Lillium's blockchain:  
 More fang-tastic than secure, but guaranteed to be a crypt-ic good time.
 ---
 Ah, the Lillium-chain, a blockchain so revolutionary, it'll have even the most crypt-dwelling skeptic raising an eyebrow (or should we say, cobweb?). This project, not exactly the brainchild of the eternally youthful Lillium (bless her batty heart), is more of a well-meaning, yet slightly fang-tastic, attempt to enter the digital age.
