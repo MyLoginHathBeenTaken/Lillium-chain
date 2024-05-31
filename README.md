@@ -10,3 +10,10 @@ Imagine, a system built on the unyielding principles of... well, whatever Lilliu
 This isn't a project endorsed by Lillium herself, mind you.  She's more interested in perfecting her eternal youth routine than the intricacies of cryptography. But hey, someone's gotta keep the undead (and frankly, the living) entertained, right?
 
 So download the Lillium-chain, if you have a taste for the... unconventional. Just remember, with great blockchain aspirations comes great responsibility, and the responsibility here is to not blame the developers when your transactions get mysteriously stuck in "eternal processing," much like Lillium seems to be stuck in a state of perpetual adolescence.
+---
+## ToDo List
+
+- [ ] learn GO
+- [ ] Make a blockchain
+- [ ] ???
+- [ ] Profit 
