@@ -30,3 +30,4 @@ So download the Lillium-chain, if you have a taste for the... unconventional. Ju
   - [ ] Write unit tests for core functionalities (e.g., block hashing, transaction validation).
 - [ ] ???
 - [ ] Profit 
+- [ ] Write JS Miner
