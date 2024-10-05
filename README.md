@@ -12,11 +12,13 @@ This isn't a project endorsed by Lillium herself, mind you.  She's more interest
 So download the Lillium-chain, if you have a taste for the... unconventional. Just remember, with great blockchain aspirations comes great responsibility, and the responsibility here is to not blame the developers when your transactions get mysteriously stuck in "eternal processing," much like Lillium seems to be stuck in a state of perpetual adolescence.
 ---
 ## ToDo List
-
-- [ ] learn GO
+- [ ] Make a UI
+  - [ ] Basic Information
+  - [ ] Return User Wallet
+  - [ ] More UI
 - [ ] Make a blockchain
   - [ ] Define structs for Block and Transaction with relevant data fields.
-  - [ ] Implement BLAKE2b hashing for block data.
+  - [ ] Implement BLAKE3 hashing for block data.
   - [ ] Implement a Node struct to manage libp2p functionalities
   - [ ] Create a libp2p host.
   - [ ] Implement peer discovery (e.g., using libp2p's mdns or dht protocols).
